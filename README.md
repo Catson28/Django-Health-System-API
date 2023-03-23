@@ -319,4 +319,3 @@ As funcionalidades podem ser ordenadas em uma hierarquia de dependência, onde a
 
     - Electronic_Health_Records (ehr_id, patient_id, ehr_data)
 
-Note: This is just an example and the actual table names and fields may vary based on the specific requirements and design of the system.
